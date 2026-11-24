@@ -5,7 +5,7 @@ metadata:
   labels:
     app: run2compose
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: run2compose
